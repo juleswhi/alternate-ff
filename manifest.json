@@ -5,6 +5,11 @@
 
     "description": "Adds an alternate tab keybind",
 
+    "icons": {
+        "12": "images/alt.png",
+    }
+
+
     "permissions": [
         "tabs"
     ],
