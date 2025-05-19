@@ -3,7 +3,7 @@
     "name": "Alternate",
     "version": "1.0",
 
-    "description": "Adds an alternate tab key",
+    "description": "Adds an alternate tab keybind",
 
     "permissions": [
         "tabs"
@@ -14,9 +14,9 @@
     },
 
     "commands": {
-        "toggle-feature": {
+        "alternate": {
             "suggested_key": { "default": "Ctrl+6" },
-            "description": "Send a 'toggle-feature' event to the extension"
+            "description": "Sends an alternate command"
         }
     }
 }
